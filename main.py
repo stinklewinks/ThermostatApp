@@ -1,6 +1,5 @@
-import os
 import time
-import sys
+
 
 class Thermostat:
     current_temp = 0;

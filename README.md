@@ -8,4 +8,11 @@ ThermoPy includes features and expansion to get the outside temperature, humidit
 
 
 ***ThermoPy is an application of BerylHome suite of applications. ***
+
 [WeatherStation](https://beryl.home/weather-station)
+
+[BerylGarden](https://beryl.home/weather-station)
+
+[BerylLawn](https://beryl.home/weather-station)
+
+[BerylFort](https://beryl.home/weather-station)
